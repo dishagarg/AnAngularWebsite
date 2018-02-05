@@ -1,2 +1,2 @@
 # AnAngularWebsite
-Developed a website for a restaurant using Angular2
+Developed a website for a restaurant using AngularJS
